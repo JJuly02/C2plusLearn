@@ -53,3 +53,46 @@ These files include miscellaneous practice programs:
 2. Compile the file using `g++`:
    ```bash
    g++ filename.cpp -o output
+   ```
+3. Run the compiled program:
+   ```bash
+   ./output
+   ```
+
+### Example
+```bash
+g++ zadanie17.cpp -o zadanie17
+./zadanie17
+```
+
+---
+
+## 🎯 Purpose
+
+This repository showcases my growth in C++ programming, from learning basic syntax to solving complex tasks. The exercises demonstrate my understanding of:
+- Fundamental C++ concepts like variables, loops, and functions.
+- Object-oriented programming principles.
+- Algorithm design and implementation.
+
+---
+
+## 🤝 Contributions
+
+While this repository is primarily for personal learning, suggestions or improvements are always welcome! Feel free to submit issues or pull requests.
+
+---
+
+## 📜 License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🌟 Acknowledgments
+
+- My university professors for their guidance.
+- Online C++ resources and communities for additional learning materials.
+
+---
+
+Happy coding! 🚀
